@@ -13,6 +13,9 @@
     "react-scripts": "0.6.1",
     "stylus": "0.54.5"
   },
+  "devServer": {
+      "historyApiFallback": true
+  },
   "dependencies": {
     "history": "4.2.0",
     "re-base": "2.2.0",
